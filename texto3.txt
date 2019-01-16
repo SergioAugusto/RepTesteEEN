@@ -1,3 +1,6 @@
 Texto3 criado
+
 editei local
+
+atualizei no github
 
